@@ -3,7 +3,7 @@ import Desenvolvedor from 'Manel';
 
 public class SobreMim extends Desenvolvedor {
   Nome = "Manuel Santos Souza";
-  Area = "Desenvolvimento front-end";
+  Area = "Desenvolvimento front-end e Manuntenção de computadores";
   Escola = "EAJ/UFRN - Escola agrícola de jundiaí";
   Local = "RN 160, Km 03 s/n Distrito de Macaíba - RN, 59280-000";
 }
