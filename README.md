@@ -1,3 +1,10 @@
+<hr>
+
+  [![Instagran Badge](https://img.shields.io/badge/Instagram-E4405F?style=flatsquare&logo=instagram&logoColor=white&link=https://https://www.instagram.com/manel.rar/)](https://www.instagram.com/manel.rar)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:*manuel.santos.souza.23@gmail.com)](mailto:*manuel.santos.souza.23@gmail.com)
+  
+<hr>
+
 ```java
 import Desenvolvedor from 'Manel';
 
