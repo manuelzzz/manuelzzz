@@ -1,5 +1,5 @@
 ## Hey! I'm Manuel Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-##### I'm a brazilian 15 years old guy. Programmer, student and a tech enthusiast. Also a musician (comedian in free time).
+##### I'm a brazilian 15 year old guy. Programmer, student and a tech enthusiast. Also a musician (comedian in free time).
 ##### Learning lover.
 
 ![manuelzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelzzz&show_icons=true&theme=dark)
