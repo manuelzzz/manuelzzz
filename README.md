@@ -2,6 +2,7 @@
 ##### I'm a brazilian 15 year old guy. Programmer, student, tech enthusiast and a study lover. Also a musician and comedian in free time.
 
 ![manuelzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelzzz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelzzz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently studying
 <div>
