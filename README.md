@@ -3,23 +3,37 @@
 
 ![Manuelzzz GitHub stats](https://github-readme-stats-manuelzzz.vercel.app/api?username=manuelzzz&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats-manuelzzz.vercel.app/api/top-langs/?username=manuelzzz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Currently studyng
-<div>
-    <img alig='center' alt='dart' src=https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white>
-    <img alig='center' alt='dart' src=https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white>
-</div>
-
-
-### Languages & technologies
-<div>
-    <img aling='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
-    <img alig='center' alt ='js' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
-    <img alig='center' alt='pg' src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
-    <img alig='center' alt='git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'>
-    <img alig='center' alt='arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'>
-</div>
+![Top Langs](https://github-readme-stats-manuelzzz.vercel.app/api/top-langs/?username=manuelzzz&layout=compact&theme=dark)
+<HR width=100% size=5>
+<details>
+  <summary><h2>Languages & technologies</h2></summary>
+    <ul>
+        <div>
+            <li>
+        <h4>Frameworks</h4>
+            <img alig='center' alt='flutter' src=https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white>
+                </li>
+        </div>
+        <div>
+            <li>
+            <h4>Languages</h4>
+            <img aling='center' alt='java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'>
+            <img alig='center' alt='js' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
+            <img alig='center' alt='dart' src=https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white>
+                </li>
+        </div>
+        <div>
+            <li>
+            <h4>Extras</h4>
+            <img alig='center' alt='pg' src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
+            <img alig='center' alt='msql' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
+            <img alig='center' alt='arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'>
+            <img alig='center' alt='git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'>
+                </li>
+        </div>
+    </ul>
+</details>
+<HR width=100% size=5>
 
 ### Contact:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.santos.souza.23@gmail.com)
