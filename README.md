@@ -5,13 +5,16 @@
 #### Also a musician and comedian in free time
   
 <HR width=100% size=5>
-<div>
+<div align='center'>
 <h4>General</h4>
+ <img alig='center' alt='js' src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E>
+<img alig='center' alt='dart' src=https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white>
+<img alig='center' alt='java' src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
+<img alig='center' alt='py' src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=informational&color=yellow>
+<div>
 <img alig='center' alt='flutter' src=https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white>
 <img alig='center' alt='reactJs' src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-<img alig='center' alt='js' src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E>
-<img alig='center' alt='dart' src=https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white>
-<img aling='center' alt='java' src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
+</div>
 <h4>Database</h4>
 <img alig='center' alt='pg' src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white>
 <img alig='center' alt='msql' src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
