@@ -1,7 +1,8 @@
 <div align='center'>
 
 ## Hey! I'm Manel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-#### I'm a brazilian 16 years old guy. Programmer, student, chess player and a tech enthusiast.
+#### I'm a brazilian guy. Programmer, student, chess player and a tech enthusiast.
+#### Actually developing react apps with typescript
 
 <hr>
 
