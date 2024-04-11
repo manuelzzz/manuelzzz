@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40px"></p>
 
--   🔭 I'm currently studying bachelor's degree in information technology at UFRN.
+-   🔭 I'm currently studying bachelor's degree in Information Technology at UFRN.
 -   🌱 I'm currently learning **Spring**.
 -   💬 Ask me about **Flutter**
 
