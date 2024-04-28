@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Manel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> </h1>
 <h3 align="center">A creative dev and student with the dream of being a teacher</h3>
 
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40px"></p>
+<p align="center"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40px"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40px"></p>
 
 -   🔭 I'm currently studying bachelor's degree in Information Technology at UFRN
 -   🌱 I'm currently learning **Spring**
