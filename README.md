@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40px"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40px"><img src="https://seeklogo.com/images/L/linux-mint-logo-49124587FE-seeklogo.com.png" width="40px"> <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png" width="40px"> </p>
 
 -   🔭 I'm currently studying bachelor's degree in Information Technology at UFRN
--   🌎 I dream of traveling the world, discovering countries and new cultures
+-   🌎 I aspire to trevel the world, discover countries and new cultures
 -   👨🏽‍💻 Working as a mobile developer at [STI](https://sti.ufrn.br/)
 -   🌱 I'm currently learning **Swift**
 -   💬 Ask me about **Flutter**
