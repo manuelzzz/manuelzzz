@@ -1,24 +1,37 @@
 <h1 align="center">Hey! I'm Manel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> </h1>
 <h3 align="center">A creative dev and student with the dream of being a teacher</h3>
 
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40px"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40px"><img src="https://seeklogo.com/images/L/linux-mint-logo-49124587FE-seeklogo.com.png" width="40px"> <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png" width="40px"> </p>
+<h4 align="center">
 
--   🔭 I'm currently studying bachelor's degree in Information Technology at UFRN
--   🌎 I aspire to trevel the world, discover countries and new cultures
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+</h4>
+
+##
+
 -   👨🏽‍💻 Working as a mobile developer at [STI](https://sti.ufrn.br/)
+-   🔭 Currently studying bachelor's degree in Information Technology at UFRN
+-   🌎 I aspire to trevel the world, discover countries and new cultures
 -   🌱 I'm currently learning **Swift**
 -   💬 Ask me about **Flutter**
 
 ##
+ 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-<img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" width="35px"> <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="25px"> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="28px"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="35px"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="35px"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="35px"> <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="35px"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="35px"> <img src="https://seeklogo.com/images/V/vim-logo-A3E02B1F74-seeklogo.com.png" width="30px">
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ##
 
 <div align="center">
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelzzz&theme=github_dark)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelzzz&theme=github_dark) ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manuelzzz&theme=github_dark)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelzzz&theme=github_dark)
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelzzz&theme=github_dark) ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manuelzzz&theme=github_dark)
+![Github Status Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelzzz&theme=github_dark)
+![Productivity time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelzzz&theme=github_dark&utcOffset=+3)
 
 ##
 
