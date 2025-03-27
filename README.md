@@ -31,7 +31,7 @@
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelzzz&theme=github_dark)
 ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelzzz&theme=github_dark) ![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manuelzzz&theme=github_dark)
 ![Github Status Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelzzz&theme=github_dark)
-![Productivity time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelzzz&theme=github_dark&utcOffset=+3)
+![Productivity time card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelzzz&theme=github_dark&utcOffset=-3)
 
 ##
 
